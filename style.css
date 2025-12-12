@@ -101,7 +101,7 @@ body {
     margin: 0 auto;
 }
 
-.avatar-placeholder {
+.avatar-placeholder img {
     width: 135px;
     height: 135px;
     background: linear-gradient(135deg, var(--accent), var(--accent-light));
